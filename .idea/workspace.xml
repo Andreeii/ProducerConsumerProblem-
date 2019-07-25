@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d91ece56-cf58-400c-99d9-c959b318a4ae" name="Default Changelist" comment="Initial project">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProducerConsumerr/Consumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProducerConsumerr/META-INF/ProducerConsumerr.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProducerConsumerr/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProducerConsumerr/Producer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProducerConsumerr/Scaner.class" afterDir="false" />
+    <list default="true" id="d91ece56-cf58-400c-99d9-c959b318a4ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/ProducerConsumerr/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProducerConsumerr/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/src/Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -87,8 +82,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="799" />
-    <option name="height" value="609" />
+    <option name="width" value="800" />
+    <option name="height" value="610" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -179,7 +174,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19463088" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -311,7 +305,7 @@
     <entry file="file://$PROJECT_DIR$/src/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
         </state>
       </provider>
     </entry>
